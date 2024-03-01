@@ -1,0 +1,95 @@
+
+
+.container {
+    max-width: 15000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.authors {
+    margin: 0;
+    font-size: 20px;
+    color: white;
+}
+
+.author-label {
+    font-weight: bold;
+}
+
+.authors a {
+    color: white;
+    text-decoration: none;
+}
+
+.authors a.green-link {
+    color: green;
+}
+
+.separator {
+    color: #666666;
+}
+
+.acl-info {
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.buttons .button {
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    border: 1px solid white;
+}
+
+.content {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.university-info {
+    max-width: 600px;
+    margin: 0 auto;
+    border: 10px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.university {
+    flex: 1;
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
+
+.logo {
+    max-width: 100px;
+}
+
+.university-name {
+    margin: 5px 0;
+    color: #333;
+}
+
+.website-link {
+    text-decoration: none;
+    color: #333;
+    font-size: 12px;
+}
+
+.typeset p a,
+.typeset li a {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #05bf85 50%);
+    background-position: 0 93%;
+    background-repeat: repeat-x;
+    background-size: 100% 0.15rem;
+    text-shadow: none; /* Remove text-shadow */
+}
+
