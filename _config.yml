@@ -21,8 +21,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
+url: 'https://nhatkhangcs.github.io'
+baseurl: '/ACL-jekyll'
 title: "Khang's website"
 description: "Welcome to Khang's website"
 permalink: pretty
