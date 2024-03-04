@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://nhatkhangcs.github.io'
-baseurl: '/ACL-jekyll'
+baseurl: '/ACL-jekyll/'
 title: "Khang's website"
 description: "Welcome to Khang's website"
 permalink: pretty
